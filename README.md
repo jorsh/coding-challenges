@@ -1,2 +1,5 @@
-# coding-challenges
-A collection of coding challenges and my approach to their solutions.
+# Coding Challenges
+A collection of coding challenges and solutions.
+
+## Codewars
+- [Lottery Machine](lottery-machine/README.md)
